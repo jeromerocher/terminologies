@@ -1,2 +1,2 @@
-# terminologies
+# Terminologies
 Terminologies
